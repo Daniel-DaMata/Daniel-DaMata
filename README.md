@@ -1,16 +1,26 @@
-### Hi there 👋
+###Olá meu nome é Daniel da Mata
 
-<!--
-**Daniel-DaMata/Daniel-DaMata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20da%20Mata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-da-mata-soares-46359325a/)
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danieldamata.soares@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+># 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>&nbsp;
+<!--<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo" width="50" height="50"/>&nbsp;-->
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="Mysql Logo" width="50" height="50"/>
+
+
+--------
+
+
+># My Github Status
+
+
+![Daniel-DaMata Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-damata&show_icons=true&theme=dracula)
+
+[![Daniel-DaMata Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damata&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
