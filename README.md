@@ -1,7 +1,6 @@
-###Olá meu nome é Daniel da Mata
+Olá meu nome é Daniel da Mata
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20da%20Mata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-da-mata-soares-46359325a/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danieldamata.soares@gmail.com)
 
 ># 🧰 Toolbox
