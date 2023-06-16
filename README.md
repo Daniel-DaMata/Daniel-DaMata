@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danieldamata.soares@gmail.com)
 
 
-Eu sou um desenvolvedor apaixonado por backend, e um aprendizado constante.
+Eu sou um desenvolvedor backend, que vem buscando desafios constantes e conhecimentos para uma evolução.
 
 --------
 
