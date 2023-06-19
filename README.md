@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20da%20Mata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-da-mata-soares-46359325a/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danieldamata.soares@gmail.com)
 
+ ![Snake animation](https://github.com/Daniel-DaMata/blob/output/github-contribution-grid-snake.svg)
+/* https://github.com/Daniel-DaMata*/
 
 Eu sou um desenvolvedor backend, que vem buscando desafios constantes e conhecimentos para uma evolução.
 
@@ -22,4 +24,5 @@ Eu sou um desenvolvedor backend, que vem buscando desafios constantes e conhecim
 ![Daniel-DaMata Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-damata&show_icons=true&theme=dracula)
 
 [![Daniel-DaMata Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damata&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
