@@ -18,9 +18,7 @@ Eu sou um desenvolvedor backend, que vem buscando desafios constantes e conhecim
 ># My Github Status
 
 
-![Daniel-DaMata Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-damata&show_icons=true&theme=dracula)
-
-[![Daniel-DaMata Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damata&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Daniel-DaMata Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-damata&show_icons=true&theme=dracula)[![Daniel-DaMata Most Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-damata&hide=css,html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake animation](https://github.com/Idalvo/Idalvo/blob/output/github-contribution-grid-snake.svg)
