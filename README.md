@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20da%20Mata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-da-mata-soares-46359325a/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:danieldamata.soares@gmail.com)
 
- ![Snake animation](https://github.com/Daniel-DaMata/Daniel-DaMata/blob/output/github-contribution-grid-snake.svg)
-
 Eu sou um desenvolvedor backend, que vem buscando desafios constantes e conhecimentos para uma evolução.
 
 --------
